@@ -1,1 +1,7 @@
 Licht level Meter für nachjustage bei PV Anlagen
+
+  Über 2 Lichsensoren soll die Horizintale Ausrichtung nachjustiert werden
+    Lichtsensor kann sein Photoresistor und Widerstand als Spannungsteiler
+    oder TEMT6000  https://www.az-delivery.de/products/temt6000-lichtsensor
+    
+  
